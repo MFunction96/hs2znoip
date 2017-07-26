@@ -7,7 +7,7 @@
 > 以下目录采用以下格式：[训练题号] - [原题地址] - [题解] - [Accepted代码]
 
 - [A](https://vjudge.net/contest/173239#problem/A) - [HDU2004](http://acm.hdu.edu.cn/showproblem.php?pid=2004) - [成绩转换](https://github.com/MFunction96/hs2znoip/issues/1) - [Accepted代码](https://github.com/MFunction96/hs2znoip/blob/master/Round1/A.cpp)
-- [B](https://vjudge.net/contest/173239#problem/B) - [HDU1106](http://acm.hdu.edu.cn/showproblem.php?pid=1106) - 排序 - Accepted代码
+- [B](https://vjudge.net/contest/173239#problem/B) - [HDU1106](http://acm.hdu.edu.cn/showproblem.php?pid=1106) - [排序](https://github.com/MFunction96/hs2znoip/issues/2) - [Accepted代码](https://github.com/MFunction96/hs2znoip/blob/master/Round1/B.cpp)
 - [C](https://vjudge.net/contest/173239#problem/C) - [Codeforces265B](http://codeforces.com/problemset/problem/265/B) - Roadside Trees (Simplified Edition) - Accepted代码
 - [D](https://vjudge.net/contest/173239#problem/D) - [Codeforces262B](http://codeforces.com/problemset/problem/262/B) - Roma and Changing Signs - Accepted代码
 - [E](https://vjudge.net/contest/173239#problem/E) - [Codeforces616B](http://codeforces.com/problemset/problem/616/B) - Dinner with Emma - Accepted代码
